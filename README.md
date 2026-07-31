@@ -1,6 +1,5 @@
-<h4 align="center"><samp> Olá 👋🏾  bem vindo ao meu Github! Eu sou um estudante de Ciência da Computação com sólida experiência prática em desenvolvimento
-web Full-Stack. Eu também gosto criar interfaces de alta qualidade e estruturar
-arquiteturas robustas e eficientes no backend </samp></h4>
+<h4 align="center"><samp> Olá! 👋🏾 Bem-vindo ao meu perfil.
+Como estudante de Ciência da Computação, uno fundamentação teórica à prática no desenvolvimento Full-Stack. Minha atuação é centrada na construção de interfaces intuitivas e no desenvolvimento de sistemas backend sólidos e de alta eficiência. </samp></h4>
 
 <br>
 

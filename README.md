@@ -1,5 +1,5 @@
-<h4 align="center"><samp> Olá! 👋🏾 Bem-vindo ao meu perfil.
-Como estudante de Ciência da Computação, uno fundamentação teórica à prática no desenvolvimento Full-Stack. Minha atuação é centrada na construção de interfaces intuitivas e no desenvolvimento de sistemas backend sólidos e de alta eficiência. </samp></h4>
+<h4 align="center"><samp> Olá! 👋🏾 Seja bem-vindo ao meu GitHub.
+Sou estudante de Ciência da Computação com sólida vivência prática em desenvolvimento web Full-Stack. Tenho como foco a criação de interfaces de alta performance e o projeto de arquiteturas de backend robustas, escaláveis e eficientes. </samp></h4>
 
 <br>
 
@@ -79,3 +79,49 @@ múltiplas fontes, persistência em JSON e upscaling de vídeo.
     </td>
   </tr>
 </table>
+
+<br>
+
+
+<div align="center">
+  <h3><samp>ESTATÍSTICAS DO GITHUB</samp></h3>
+
+[![GitHub Stats](https://github-readme-stats-chi-sable-56.vercel.app/api?username=rogerio-miguel&include_all_commits=true&theme=dark)](https://github.com/rogerio-miguel)
+[![Linguagens Mais Usadas](https://github-readme-stats-chi-sable-56.vercel.app/api/top-langs?username=rogerio-miguel&layout=compact&langs_count=8&theme=dark&hide=glsl)](https://github.com/rogerio-miguel)
+</div>
+
+<br>
+
+<div align="center">
+  <h3><samp>HABILIDADES E FERRAMENTAS</samp></h3>
+  
+  <!-- Linguagens -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
+
+  <!-- Frontend & Backend -->
+  <p>
+    <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Express_5-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </p>
+
+  <!-- Ferramentas e SO -->
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Zorin_OS-20232A?style=for-the-badge&logo=linux&logoColor=white" alt="Zorin OS" />
+    <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11" />
+    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
+  </p>
+</div>
+
+<br>

@@ -25,6 +25,9 @@ Sou estudante de Ciência da Computação com sólida vivência prática em dese
       <a href="http://www.comunicmais.com.br" target="_blank">
         <img src="https://img.shields.io/badge/🔗_Acessar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar Comunic+" />
       </a>
+      <a href="https://github.com/rogerio-miguel/ComunicMais_Showcase" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Comunic+" />
+      </a>
       <br><br>
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Node(Express)-43853D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />

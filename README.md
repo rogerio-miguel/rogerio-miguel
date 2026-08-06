@@ -1,130 +1,110 @@
-<h4 align="center"><samp> Olá! 👋🏾 Seja bem-vindo ao meu GitHub.
-Sou estudante de Ciência da Computação com sólida vivência prática em desenvolvimento web Full-Stack. Tenho como foco a criação de interfaces de alta performance e o projeto de arquiteturas de backend robustas, escaláveis e eficientes. </samp></h4>
+### `Olá! 👋🏾`
 
-<br>
+Sou um desenvolvedor Full-Stack Júnior. Tenho experiência prática e autodidata construindo produtos reais do zero — do frontend em React ao backend em Node.js e Python, passando por autenticação segura, integração de pagamentos e deploy em nuvem.
 
-<div align="center">
+Hoje desenvolvo e mantenho o **[Comunic+](http://www.comunicmais.com.br)**, uma plataforma SaaS de jogos terapêuticos em produção, e construí orquestradores web em arquitetura desacoplada com foco em performance. Gosto de resolver problemas difíceis e entender o sistema de ponta a ponta, não só a parte que aparece na tela.
 
-### <samp>PROJETOS DE DESTAQUE</samp>
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rogerio-miguel-barros-de-souza) · [rogeriomiguelbarrosdesouza@gmail.com](mailto:rogeriomiguelbarrosdesouza@gmail.com)
 
-</div>
+<br/>
 
-<table width="100%">
-  <tr>
-    <!-- CARD 1: Comunic+ -->
-    <td width="33%" valign="top" align="center">
-      <h3><img src="./assets/icone-Comunic+.png" width="28" height="28" valign="middle" alt="Comunic+" /> Comunic+</h3>
-      <h5><samp>Plataforma SaaS de Jogos Terapêuticos</samp></h5>
-      <img src="https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square" alt="Status: Em Produção" />
-      <hr>
-      <h5><samp>
-        Plataforma SaaS em arquitetura monorepo com checkout Stripe, autenticação
-        JWT/OAuth, controle de acessos e sistema de suporte com tickets.
-      <samp/></h5>
-      <br>
-      <a href="http://www.comunicmais.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Acessar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar Comunic+" />
-      </a>
-      <a href="https://github.com/rogerio-miguel/ComunicMais_Showcase" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Comunic+" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node(Express)-43853D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-      <br>
-      <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-    </td>
-    <!-- CARD 2: Slime Shell // Web -->
-    <td width="33%" valign="top" align="center">
-      <h3><img src="./assets/icone-Slime-Shell-WEB.webp" width="28" height="28" valign="middle" alt="Slime Shell Web" /> Slime Shell // Web</h3>
-      <h5><samp>Orquestrador Web de Mídias</samp></h5>
-      <img src="https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square" alt="Status: Concluído" />
-      <hr>
-      <h5><samp>
-        Orquestrador web desacoplado com motor de bypass Cloudflare, navegação
-        customizada de vídeos e integração com player MPV via Vulkan.
-      </samp></h5>
-      <br>
-      <a href="https://github.com/rogerio-miguel/Slime_Shell_Web" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Slime Shell Web" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <br>
-      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-      <img src="https://img.shields.io/badge/MPV-380E51?style=flat-square&logo=mpv&logoColor=white" alt="MPV" />
-    </td>
-    <!-- CARD 3: Slime Shell -->
-    <td width="33%" valign="top" align="center">
-      <h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%23333333" width="28" height="28" valign="middle" alt="Slime Shell" /> Slime Shell</h3>
-      <h5><samp>Ecossistema TUI</samp></h5>
-      <img src="https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square" alt="Status: Concluído" />
-      <hr>
-      <h5><samp>
-        TUI de alta performance com arquitetura multithread para busca simultânea em
-múltiplas fontes, persistência em JSON e upscaling de vídeo.        
-      </samp></h5>
-      <br>
-      <a href="https://github.com/rogerio-miguel/Slime_Shell" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Slime Shell" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/InquirerPy-000000?style=flat-square" alt="InquirerPy" />
-      <br>
-      <img src="https://img.shields.io/badge/DrissionPage-2C8EBB?style=flat-square" alt="DrissionPage" />
-      <img src="https://img.shields.io/badge/MPV-380E51?style=flat-square&logo=mpv&logoColor=white" alt="MPV" />
-    </td>
-  </tr>
+### `PROJETOS DE DESTAQUE`
+
+<table>
+<tr>
+<td width="120"><img src="assets/icone-Comunic+.png" width="100"/></td>
+<td>
+
+#### Comunic+
+`Plataforma SaaS de Jogos Terapêuticos`
+![Status: Em Produção](https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square)
+
+Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. Checkout Stripe (Checkout, Elements, Customer Portal e webhooks), autenticação JWT/OAuth com 2FA (TOTP) para contas administrativas, RBAC, suporte via tickets e exportação de dados em conformidade com a LGPD. Deploy contínuo via Vercel e Railway.
+
+[🔗 Acessar Comunic+](http://www.comunicmais.com.br) · [📂 Repositório](https://github.com/rogerio-miguel/ComunicMais_Showcase)
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node(Express)-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%2FOAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="120"><img src="assets/icone-Slime-Shell-WEB.webp" width="100"/></td>
+<td>
+
+#### Slime Shell // Web
+`Orquestrador Web de Mídias`
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square)
+
+Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de bypass de proteções anti-bot (DrissionPage + Cloudscraper) sobre um navegador headless, geração automática de metadados (FFmpeg, AniList/Kitsu) e integração direta com player MPV via API Vulkan para upscaling em tempo real.
+
+[📂 Repositório](https://github.com/rogerio-miguel/Slime_Shell_Web)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![DrissionPage](https://img.shields.io/badge/DrissionPage-2C8EBB?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![MPV](https://img.shields.io/badge/MPV-380E51?style=flat-square&logo=mpv&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><img src="https://api.iconify.design/lucide:terminal.svg?color=%23333333" width="60"/></td>
+<td>
+
+#### Slime Shell
+`Ecossistema TUI`
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square)
+
+TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modular baseada em threads. Consultas paralelas simultâneas a múltiplas fontes, com gerenciamento de timeouts e fallback automático, motor de bypass anti-bot (DrissionPage) e persistência de progresso em JSON, com upscaling de vídeo via MPV/Vulkan.
+
+[📂 Repositório](https://github.com/rogerio-miguel/Slime_Shell)
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![InquirerPy](https://img.shields.io/badge/InquirerPy-000000?style=flat-square)
+![DrissionPage](https://img.shields.io/badge/DrissionPage-2C8EBB?style=flat-square)
+![MPV](https://img.shields.io/badge/MPV-380E51?style=flat-square&logo=mpv&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-<br>
-
-
-<div align="center">
-  <h3><samp>ESTATÍSTICAS DO GITHUB</samp></h3>
+### `ESTATÍSTICAS DO GITHUB`
 
 [![GitHub Stats](https://github-readme-stats-chi-sable-56.vercel.app/api?username=rogerio-miguel&include_all_commits=true&theme=dark)](https://github.com/rogerio-miguel)
 [![Linguagens Mais Usadas](https://github-readme-stats-chi-sable-56.vercel.app/api/top-langs?username=rogerio-miguel&layout=compact&langs_count=8&theme=dark&hide=glsl)](https://github.com/rogerio-miguel)
-</div>
 
-<br>
+### `HABILIDADES E FERRAMENTAS`
 
-<div align="center">
-  <h3><samp>HABILIDADES E FERRAMENTAS</samp></h3>
-  
-  <!-- Linguagens -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <!-- Frontend & Backend -->
-  <p>
-    <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Express_5-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </p>
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <!-- Ferramentas e SO -->
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Zorin_OS-20232A?style=for-the-badge&logo=linux&logoColor=white" alt="Zorin OS" />
-    <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11" />
-    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
-  </p>
-</div>
-
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-20232A?style=for-the-badge&logo=linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)

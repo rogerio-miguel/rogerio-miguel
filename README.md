@@ -16,12 +16,13 @@ Hoje desenvolvo e mantenho o **[Comunic+](http://www.comunicmais.com.br)**, uma 
 <td>
 
 #### Comunic+
-`Plataforma SaaS de Jogos Terapêuticos`
 ![Status: Em Produção](https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square)
 
 Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. Checkout Stripe (Checkout, Elements, Customer Portal e webhooks), autenticação JWT/OAuth com 2FA (TOTP) para contas administrativas, RBAC, suporte via tickets e exportação de dados em conformidade com a LGPD. Deploy contínuo via Vercel e Railway.
 
-[🔗 Acessar Comunic+](http://www.comunicmais.com.br) · [📂 Repositório](https://github.com/rogerio-miguel/ComunicMais_Showcase)
+<!-- [🔗 Acessar Comunic+](http://www.comunicmais.com.br) 
+<br><br> -->
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/ComunicMais_Showcase)
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node(Express)-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -40,12 +41,11 @@ Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. 
 <td>
 
 #### Slime Shell // Web
-`Orquestrador Web de Mídias`
-![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square)
+<!-- ![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square) -->
 
 Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de bypass de proteções anti-bot (DrissionPage + Cloudscraper) sobre um navegador headless, geração automática de metadados (FFmpeg, AniList/Kitsu) e integração direta com player MPV via API Vulkan para upscaling em tempo real.
 
-[📂 Repositório](https://github.com/rogerio-miguel/Slime_Shell_Web)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Shell_Web)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -63,12 +63,11 @@ Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de byp
 <td>
 
 #### Slime Shell
-`Ecossistema TUI`
-![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square)
+<!-- ![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square) -->
 
 TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modular baseada em threads. Consultas paralelas simultâneas a múltiplas fontes, com gerenciamento de timeouts e fallback automático, motor de bypass anti-bot (DrissionPage) e persistência de progresso em JSON, com upscaling de vídeo via MPV/Vulkan.
 
-[📂 Repositório](https://github.com/rogerio-miguel/Slime_Shell)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Shell)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![InquirerPy](https://img.shields.io/badge/InquirerPy-000000?style=flat-square)

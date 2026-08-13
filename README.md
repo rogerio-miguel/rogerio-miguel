@@ -1,12 +1,9 @@
-### `Olá! 👋🏾`
-
-Sou um desenvolvedor Full-Stack Júnior. Tenho experiência prática e autodidata construindo produtos reais do zero — do frontend em React ao backend em Node.js e Python, passando por autenticação segura, integração de pagamentos e deploy em nuvem.
-
-Hoje desenvolvo e mantenho o **[Comunic+](http://www.comunicmais.com.br)**, uma plataforma SaaS de jogos terapêuticos em produção, e construí orquestradores web em arquitetura desacoplada com foco em performance. Gosto de resolver problemas difíceis e entender o sistema de ponta a ponta, não só a parte que aparece na tela.
-
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rogerio-miguel-barros-de-souza) · [rogeriomiguelbarrosdesouza@gmail.com](mailto:rogeriomiguelbarrosdesouza@gmail.com)
-
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img src="assets/hero-dark.svg" alt="rogerio-miguel hero section" />
+  </picture>
+</p>
 
 ### `PROJETOS DE DESTAQUE`
 
@@ -100,32 +97,24 @@ TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modu
 </tr>
 </table>
 
-### `ESTATÍSTICAS DO GITHUB`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+    <img src="assets/stats-dark.svg" alt="rogerio-miguel GitHub stats section" />
+  </picture>
+</p>
 
-[![GitHub Stats](https://github-readme-stats-chi-sable-56.vercel.app/api?username=rogerio-miguel&include_all_commits=true&theme=dark)](https://github.com/rogerio-miguel)
-[![Linguagens Mais Usadas](https://github-readme-stats-chi-sable-56.vercel.app/api/top-langs?username=rogerio-miguel&layout=compact&langs_count=8&theme=dark&hide=glsl)](https://github.com/rogerio-miguel)
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg" />
+    <img src="assets/skills-dark.svg" alt="rogerio-miguel skills section" />
+  </picture>
+</p> -->
 
-### `HABILIDADES E FERRAMENTAS`
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin_OS-20232A?style=for-the-badge&logo=linux&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg" />
+    <img src="assets/contributions-dark.svg" alt="rogerio-miguel heatmap section" />
+    <img src= "assets/space-shooter.gif" alt="space-shooter"
+  </picture>
+</p>

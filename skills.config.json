@@ -1,0 +1,9 @@
+{
+  "username": "rogerio-miguel",
+  "categories": [
+    { "label": "Linguagens", "items": ["Python", "JavaScript", "GLSL"] },
+    { "label": "Frameworks & Libs", "items": ["React", "Node.js", "Express", "FastAPI", "Tailwind CSS"] },
+    { "label": "Dados & Infra", "items": ["PostgreSQL", "Prisma", "Vercel", "Railway"] },
+    { "label": "Ferramentas", "items": ["Git", "Stripe", "DrissionPage", "FFmpeg", "MPV", "Vulkan"] }
+  ]
+}

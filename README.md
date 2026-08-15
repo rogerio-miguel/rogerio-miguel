@@ -34,7 +34,7 @@ Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. 
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/icone-Slime_Studio.png" width="100"/></td>
+<td width="120"><img src="assets/icone-Slime_Studio4.png" width="100"/></td>
 <td>
 
 #### Slime Studio

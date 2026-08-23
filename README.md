@@ -96,7 +96,7 @@ TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modu
 </td>
 </tr>
 </table>
-
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />

@@ -40,18 +40,24 @@ Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. 
 #### Slime Studio
 ![Status: Em Produção](https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square)
 
-<!-- Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de bypass de proteções anti-bot (DrissionPage + Cloudscraper) sobre um navegador headless, geração automática de metadados (FFmpeg, AniList/Kitsu) e integração direta com player MPV via API Vulkan para upscaling em tempo real. 
+Catálogo pessoal de animes: home dirigida por feed de metadados externo (AniList com
+fallback Kitsu), captura de episódios sob demanda com bypass anti-bot (DrissionPage +
+Cloudscraper) e empacotamento em HLS. As duas maiores melhorias ficam no player, feito
+do zero no navegador: upscaling Anime4K por frame (hls.js alimentando um <canvas>
+WebGPU) e Áudio Cinema, um grafo Web Audio próprio com realce de grave, compressor/limiter
+e crossfeed pra fone. Evolução do Slime Shell Web, que por sua vez evoluiu do projeto original Slime Shell.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Shell_Web)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![DrissionPage](https://img.shields.io/badge/DrissionPage-2C8EBB?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![MPV](https://img.shields.io/badge/MPV-380E51?style=flat-square&logo=mpv&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white) -->
+![WebGPU](https://img.shields.io/badge/WebGPU-AC162C?style=flat-square)
 
 </td>
 </tr>

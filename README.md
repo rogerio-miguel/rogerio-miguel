@@ -47,7 +47,7 @@ do zero no navegador: upscaling Anime4K por frame (hls.js alimentando um <canvas
 WebGPU) e Áudio Cinema, um grafo Web Audio próprio com realce de grave, compressor/limiter
 e crossfeed pra fone. Evolução do Slime Shell Web, que por sua vez evoluiu do projeto original Slime Shell.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio)
+<!-- [![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio) -->
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)

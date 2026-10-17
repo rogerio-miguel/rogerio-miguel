@@ -11,7 +11,7 @@ Sou Rogério Miguel, desenvolvedor Full-Stack e estudante de Ciência da Computa
 #### Comunic+
 ![Status: Em Produção](https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square)
 
-Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. Checkout Stripe (Checkout, Elements, Customer Portal e webhooks), autenticação JWT/OAuth com 2FA (TOTP) para contas administrativas, RBAC, suporte via tickets e exportação de dados em conformidade com a LGPD. Deploy contínuo via Vercel e Railway.
+Plataforma SaaS em monorepo, com 11 jogos e mais de 300 atividades. Pagamentos via Stripe, autenticação JWT/OAuth com 2FA, RBAC e conformidade com a LGPD. Deploy contínuo via Vercel e Railway.
 
 <!-- [🔗 Acessar Comunic+](http://www.comunicmais.com.br) 
 <br><br> -->
@@ -38,7 +38,7 @@ Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. 
 
 Catálogo pessoal de animes com captura sob demanda (bypass anti-bot), empacotamento HLS e player próprio no navegador, com upscaling Anime4K por frame via WebGPU. Evolução do Slime Shell Web.
 
-<!-- [![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio) -->
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio)
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)

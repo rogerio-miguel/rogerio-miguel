@@ -1,9 +1,5 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-    <img src="assets/hero-dark.svg" alt="rogerio-miguel hero section" />
-  </picture>
-</p>
+<h4 align="center"><samp> Olá! 👋🏾
+Sou Rogério Miguel, desenvolvedor Full-Stack e estudante de Ciência da Computação. </samp></h4>
 
 ### `PROJETOS DE DESTAQUE`
 
@@ -34,18 +30,13 @@ Plataforma SaaS em arquitetura monorepo, com 11 jogos e mais de 300 atividades. 
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/icone-Slime_Studio.png" width="100"/></td>
+<td width="120"><img src="assets/icone-Slime_Studio.svg" width="100"/></td>
 <td>
 
 #### Slime Studio
 ![Status: Em Produção](https://img.shields.io/badge/Status-Em_Produção-2e7d32?style=flat-square)
 
-Catálogo pessoal de animes: home dirigida por feed de metadados externo (AniList com
-fallback Kitsu), captura de episódios sob demanda com bypass anti-bot (DrissionPage +
-Cloudscraper) e empacotamento em HLS. As duas maiores melhorias ficam no player, feito
-do zero no navegador: upscaling Anime4K por frame (hls.js alimentando um <canvas>
-WebGPU) e Áudio Cinema, um grafo Web Audio próprio com realce de grave, compressor/limiter
-e crossfeed pra fone. Evolução do Slime Shell Web, que por sua vez evoluiu do projeto original Slime Shell.
+Catálogo pessoal de animes com captura sob demanda (bypass anti-bot), empacotamento HLS e player próprio no navegador, com upscaling Anime4K por frame via WebGPU. Evolução do Slime Shell Web.
 
 <!-- [![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerio-miguel/Slime_Studio) -->
 

@@ -52,12 +52,13 @@ Catálogo pessoal de animes com captura sob demanda (bypass anti-bot), empacotam
 
 </td>
 </tr>
+<!--
 <tr>
 <td width="120"><img src="assets/icone-Slime-Shell-WEB.webp" width="100"/></td>
 <td>
 
 #### Slime Shell // Web
-<!-- ![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square) -->
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(05/2026)-1565c0?style=flat-square)
 
 Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de bypass de proteções anti-bot (DrissionPage + Cloudscraper) sobre um navegador headless, geração automática de metadados (FFmpeg, AniList/Kitsu) e integração direta com player MPV via API Vulkan para upscaling em tempo real.
 
@@ -79,7 +80,7 @@ Orquestrador web desacoplado (FastAPI assíncrono + React/Vite) com motor de byp
 <td>
 
 #### Slime Shell
-<!-- ![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square) -->
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído_(2026)-1565c0?style=flat-square)
 
 TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modular baseada em threads. Consultas paralelas simultâneas a múltiplas fontes, com gerenciamento de timeouts e fallback automático, motor de bypass anti-bot (DrissionPage) e persistência de progresso em JSON, com upscaling de vídeo via MPV/Vulkan.
 
@@ -92,6 +93,7 @@ TUI de alta performance com interface responsiva (InquirerPy) e arquitetura modu
 
 </td>
 </tr>
+-->
 </table>
 <!--
 <p align="center">
